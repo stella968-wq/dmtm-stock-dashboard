@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Lecture PDF files (exceeds GitHub 100MB limit)
+*.pdf
+split_lectures/
+scratch/
+
+# Local OS & Environment files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
